@@ -1,0 +1,11 @@
+C:\Estudos\c#\TabuSearch\bin\Debug\netcoreapp2.2\TabuSearch.deps.json
+C:\Estudos\c#\TabuSearch\bin\Debug\netcoreapp2.2\TabuSearch.runtimeconfig.json
+C:\Estudos\c#\TabuSearch\bin\Debug\netcoreapp2.2\TabuSearch.runtimeconfig.dev.json
+C:\Estudos\c#\TabuSearch\bin\Debug\netcoreapp2.2\TabuSearch.dll
+C:\Estudos\c#\TabuSearch\bin\Debug\netcoreapp2.2\TabuSearch.pdb
+C:\Estudos\c#\TabuSearch\obj\Debug\netcoreapp2.2\TabuSearch.csprojAssemblyReference.cache
+C:\Estudos\c#\TabuSearch\obj\Debug\netcoreapp2.2\TabuSearch.csproj.CoreCompileInputs.cache
+C:\Estudos\c#\TabuSearch\obj\Debug\netcoreapp2.2\TabuSearch.AssemblyInfoInputs.cache
+C:\Estudos\c#\TabuSearch\obj\Debug\netcoreapp2.2\TabuSearch.AssemblyInfo.cs
+C:\Estudos\c#\TabuSearch\obj\Debug\netcoreapp2.2\TabuSearch.dll
+C:\Estudos\c#\TabuSearch\obj\Debug\netcoreapp2.2\TabuSearch.pdb
